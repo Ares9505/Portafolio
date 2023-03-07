@@ -7,7 +7,7 @@ import Nav from './components/nav/Nav'
 import Services from './components/services/Services'
 import Header from './components/header/Header'
 import Footer from './components/footer/Footer'
-import Portafolio from './components/portafolio/Portafilio'
+import Portafolio from './components/portafolio/Portafolio'
 
 function App() {
   return (
@@ -18,6 +18,10 @@ function App() {
     <Experience/>
     <Services/>
     <Portafolio/>
+    <Testimonial/>
+    <Contact/>
+    <Footer/>
+
     </>
   )
 }

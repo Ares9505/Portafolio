@@ -1,10 +1,10 @@
 import React from 'react'
 import './testimonial.css'
 
-const testimonial = () => {
+const Testimonial = () => {
   return (
     <div>testimonial</div>
   )
 }
 
-export default testimonial
+export default Testimonial
